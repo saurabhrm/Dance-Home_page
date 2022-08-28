@@ -367,6 +367,16 @@ nav{
             width: 350px;
         }
 
+        .social {
+            position: relative;
+            left: 0px;
+            line-height: 55px;
+            top: 59px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
  }
 
  @media screen and (max-width:349px) {
